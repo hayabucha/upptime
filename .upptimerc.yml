@@ -6,12 +6,14 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: D-make Mattermost
     url: https://company.chat.d-make.co.jp
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: D-Challenge Mattermost
+    url: https://d-challenge.chat.d-make.co.jp
+  - name: IT-Trend Mattermost
+    url: https://ittrend.chat.remocla.online
+  - name: javary Mattermost
+    url: https://javary.chat.remocla.online
+  - name: dev IT-Trend Mattermost
+    url: https://ittrend.devchat.remocla.online
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
