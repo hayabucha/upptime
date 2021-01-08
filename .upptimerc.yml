@@ -30,5 +30,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+Notifications:
+  NOTIFICATION_SLACK: true
+  NOTIFICATION_SLACK_WEBHOOK: true
+  NOTIFICATION_SLACK_WEBHOOK_URL: https://company.chat.d-make.co.jp/hooks/r8gzu8jq6jrbxpeway9wiiqr5h
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
