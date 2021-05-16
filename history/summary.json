@@ -4,18 +4,20 @@
     "url": "https://company.chat.d-make.co.jp",
     "icon": "https://favicons.githubusercontent.com/company.chat.d-make.co.jp",
     "slug": "d-make-mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 1005,
-    "timeWeek": 850,
-    "timeMonth": 791,
-    "timeYear": 801,
-    "dailyMinutesDown": {}
+    "time": 800,
+    "timeDay": 822,
+    "timeWeek": 824,
+    "timeMonth": 786,
+    "timeYear": 800,
+    "dailyMinutesDown": {
+      "2021-05-16": 0
+    }
   },
   {
     "name": "D-Challenge Mattermost",
@@ -90,7 +92,7 @@
     "timeMonth": 609,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2021-05-16": 76,
+      "2021-05-16": 871,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
       "2021-05-13": 1440,
